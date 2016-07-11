@@ -72,8 +72,12 @@ var option = {
 #### API
 
 + `ap.init()`
-+ `ap.play()`
-+ `ap.pause()`
++ `ap.play()`                       // Resume play
++ `ap.play(time)`                   // Set currentTime
++ `ap.pause()`                      // Pause
++ `ap.toggle()`                     // Toggle between play and pause
++ `ap.volume(percentage)`           // Set volume
++ `ap.on(event, handler)`           // Event binding
 
 #### Event binding
 
@@ -201,4 +205,4 @@ $ npm run build
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+[The Star And Thank Author License (SATA)](https://github.com/DIYgod/APlayer/blob/master/LICENSE)

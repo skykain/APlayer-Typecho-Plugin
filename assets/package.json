@@ -1,6 +1,6 @@
 {
   "name": "aplayer",
-  "version": "1.4.6",
+  "version": "1.4.8",
   "description": "Wow, such a beautiful html5 music player",
   "main": "dist/APlayer.min.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "html5"
   ],
   "author": "DIYgod",
-  "license": "MIT",
+  "license": "SATA",
   "bugs": {
     "url": "https://github.com/DIYgod/APlayer/issues"
   },
